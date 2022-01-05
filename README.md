@@ -1,5 +1,5 @@
 # rms-scheduling-verifier
-Python code for an RMS Verifier algorithm
+
   This algorithm takes periods and execution times for multiple tasks and determines if the task set is schedulable with RMS. The algorithm makes multiple assumptions about
   the data that its given, so I provided two files to package it up nicely.
 
